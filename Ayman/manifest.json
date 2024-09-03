@@ -1,1 +1,10 @@
-
+ {
+  "name": "Aniyomi GManga Integration",
+  "version": "1.0.0",
+  "description": "Integrates gmanga.com with Aniyomi for a seamless reading experience (if allowed by gmanga.com's terms).",
+  "author": "aymoedit36",
+  "main": "extension.js",
+  "permissions": [ // Adjust permissions based on requirements (e.g., "activeTab", "storage")
+    "activeTab"
+  ]
+}
